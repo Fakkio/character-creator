@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footer a {
+  color: currentColor;
+}
+
+.footer a:hover {
+  text-decoration: none;
+}
+
